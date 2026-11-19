@@ -1,0 +1,17 @@
+ConnectTimeout=2
+MarkPartial=true
+MinimumKeepSize=5120
+ProxyConnectTimeout=2
+ProxyUrlDisplayFlags=0
+ReadTimeout=2
+ResponseTimeout=2
+
+[Proxy Settings]
+NoProxyFor=
+Proxy Config Script=
+ProxyType=3
+ReversedException=false
+ftpProxy=
+httpProxy=
+httpsProxy=
+socksProxy=

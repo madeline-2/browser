@@ -1,0 +1,6 @@
+2026/11/19-16:58:01.352 1f9 Reusing MANIFEST /config/.config/google-chrome/Default/IndexedDB/https_play.geforcenow.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/19-16:58:01.352 1f9 Recovering log #3
+2026/11/19-16:58:01.876 1f9 Reusing old log /config/.config/google-chrome/Default/IndexedDB/https_play.geforcenow.com_0.indexeddb.leveldb/000003.log 
+2026/11/19-16:58:04.289 1ec Level-0 table #5: started
+2026/11/19-16:58:04.370 1ec Level-0 table #5: 1479822 bytes OK
+2026/11/19-16:58:04.375 1ec Delete type=0 #3
